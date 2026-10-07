@@ -8,14 +8,11 @@ ESP32-based desk device for a clock, Pomodoro timer and PC media information. Th
 
 The enclosure includes a display opening, front controls, PCB mounting points and a folding stand.
 
-<img src="docs/media/enclosure-front.gif" alt="FreeCAD animation showing the enclosure and PCB in an exploded view" width="454">
+<img src="docs/media/enclosure-front.gif" alt="FreeCAD animation showing the enclosure and PCB in an exploded view" width="550">
 
-<details>
-<summary>Rear exploded view</summary>
+### Rear exploded view
 
-<img src="docs/media/enclosure-rear.gif" alt="Rear exploded view showing the enclosure, PCB and folding stand" width="454">
-
-</details>
+<img src="docs/media/enclosure-rear.gif" alt="Rear exploded view showing the enclosure, PCB and folding stand" width="550">
 
 ## PCB
 
@@ -23,12 +20,9 @@ Custom ESP32 board with USB-C power and a display connector. The PCB outline sho
 
 <img src="docs/media/pcb-3d.png" alt="KiCad 3D render of the DeskCompanion PCB" width="600">
 
-<details>
-<summary>PCB layout</summary>
+### PCB layout
 
 ![PCB layout in KiCad](docs/media/pcb-layout.png)
-
-</details>
 
 ## Progress
 
@@ -50,9 +44,3 @@ Custom ESP32 board with USB-C power and a display connector. The PCB outline sho
 
 This initial version contains documentation and design previews. Firmware, schematics, PCB source files and CAD files have not been uploaded yet.
 
-## Next steps
-
-- Review the PCB and enclosure before fabrication.
-- Manufacture and assemble the PCB; print the enclosure.
-- Check power rails, programming, display operation and controls.
-- Verify mechanical fit and document the test results.
