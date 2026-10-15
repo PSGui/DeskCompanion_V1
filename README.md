@@ -14,6 +14,10 @@ The enclosure includes a display opening, front controls, PCB mounting points an
 
 <img src="docs/media/enclosure-rear.gif" alt="Rear exploded view showing the enclosure, PCB and folding stand" width="550">
 
+### Rear exploded view
+
+<img src="docs/media/Video_GIF.gif" alt="Blender Animation" width="550">
+
 ## PCB
 
 Custom ESP32 board with USB-C power and a display connector. The PCB outline shown in the layout is 50 × 40 mm.
