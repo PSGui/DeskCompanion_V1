@@ -1,6 +1,6 @@
 # DeskCompanion
 
-ESP32-based desk device for a clock, Pomodoro timer and PC media information. This version brings together a custom PCB designed in KiCad and an enclosure modelled in FreeCAD.
+ESP32-based desk device for a clock, Pomodoro timer and PC media information. This version brings together a custom PCB designed in KiCad, an enclosure modelled in FreeCAD and an animation made in Blender.
 
 **Status: in development.** The PCB has not been manufactured and the enclosure has not been printed. The images below show the digital design.
 
@@ -8,13 +8,15 @@ ESP32-based desk device for a clock, Pomodoro timer and PC media information. Th
 
 The enclosure includes a display opening, front controls, PCB mounting points and a folding stand.
 
+### Front exploded view
+
 <img src="docs/media/enclosure-front.gif" alt="FreeCAD animation showing the enclosure and PCB in an exploded view" width="550">
 
 ### Rear exploded view
 
 <img src="docs/media/enclosure-rear.gif" alt="Rear exploded view showing the enclosure, PCB and folding stand" width="550">
 
-### Rear exploded view
+### Blender Animation
 
 <img src="docs/media/Video_GIF.gif" alt="Blender Animation" width="550">
 
